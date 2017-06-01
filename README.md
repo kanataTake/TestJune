@@ -11,7 +11,7 @@
 ![](http://www.kotsu.city.osaka.lg.jp/library/img/common/logo2.png)
 
 ```java
-public void main(String args[]){
+public void main(String[] args){
 System.out.println("abc");
 }
 ```
